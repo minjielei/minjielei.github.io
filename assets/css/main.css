@@ -98,7 +98,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #1a1a1a;
+		background: #373737;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -4041,8 +4041,7 @@ body.is-preload .gallery.onload-fade-in article .image img {
 	display: flex;
 	-webkit-overflow-scrolling: touch;
 	position: relative;
-	margin-left: 4em;
-	margin-right: 4em;
+	margin: 0 4em 4em 4em;
 	border-radius: 0.3em;
 	border: solid 2px rgba(255, 255, 255, 0.15);
 }
@@ -4630,7 +4629,7 @@ body.is-preload .gallery.onload-fade-in article .image img {
 		}
 
 		.wrapper.style3-alt {
-			background-color: #595959;
+			background-color: #4c4a4a;
 		}
 
 		.wrapper.fullscreen {
