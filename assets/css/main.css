@@ -4042,7 +4042,7 @@ body.is-preload .gallery.onload-fade-in article .image img {
 	display: flex;
 	-webkit-overflow-scrolling: touch;
 	position: relative;
-	background-color: transparent;
+
 }
 
 	.gallery.style2 input, .gallery.style2 select, .gallery.style2 textarea {
