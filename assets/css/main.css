@@ -5135,14 +5135,14 @@ body.is-preload .gallery.onload-fade-in article .image img {
 			}
 
 			#sidebar nav a:before {
-				background: #8a839b;
+				background: #4d4d4d;
 			}
 
 			#sidebar nav a:after {
-				background-image: -moz-linear-gradient(to right, #4d4d4d, #333333);
-				background-image: -webkit-linear-gradient(to right, #4d4d4d, #333333);
-				background-image: -ms-linear-gradient(to right, #4d4d4d, #333333);
-				background-image: linear-gradient(to right, #4d4d4d, #333333);
+				background-image: -moz-linear-gradient(to right, #333333, #4d4d4d);
+				background-image: -webkit-linear-gradient(to right, #333333, #4d4d4d);
+				background-image: -ms-linear-gradient(to right, #333333, #4d4d4d);
+				background-image: linear-gradient(to right, #333333, #4d4d4d);
 				-moz-transition: max-width 0.2s ease;
 				-webkit-transition: max-width 0.2s ease;
 				-ms-transition: max-width 0.2s ease;
@@ -5231,7 +5231,7 @@ body.is-preload .gallery.onload-fade-in article .image img {
 
 						#sidebar nav a:after {
 							background-image: none;
-							background-color: #4d4d4d;
+							background-color: #8a839b;
 						}
 
 		}
